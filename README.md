@@ -17,7 +17,7 @@ El modelo utiliza varios algoritmos de **Machine Learning** para realizar la cla
 - Gradient Boosting ⚡
 - Red Neuronal (MLP) 🤖
 - Support Vector Machine (SVM) 📏
-- Regresión Logística 📊
+- Regresión Logística Multiclase📊
 
 Además, se implementa una técnica de **Ensemble** combinando todos los modelos para obtener la mejor precisión posible.
 
@@ -43,7 +43,7 @@ Además, se implementa una técnica de **Ensemble** combinando todos los modelos
 
 ```bash
 git clone https://github.com/AI-School-F5-P3/ML_Refuerzo_Esther.git
-cd proyecto-clasificacion
+cd ML_Refuerzo_Esther
 ```
 2. Instalar dependencias:
 
